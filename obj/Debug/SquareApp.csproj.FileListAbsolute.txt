@@ -1,0 +1,14 @@
+C:\Users\temp\Desktop\Deboar\SquareApp\bin\Debug\SquareApp.exe.config
+C:\Users\temp\Desktop\Deboar\SquareApp\bin\Debug\SquareApp.exe
+C:\Users\temp\Desktop\Deboar\SquareApp\bin\Debug\SquareApp.pdb
+C:\Users\temp\Desktop\Deboar\SquareApp\obj\Debug\SquareApp.csproj.AssemblyReference.cache
+C:\Users\temp\Desktop\Deboar\SquareApp\obj\Debug\SquareApp.csproj.CoreCompileInputs.cache
+C:\Users\temp\Desktop\Deboar\SquareApp\obj\Debug\SquareApp.exe
+C:\Users\temp\Desktop\Deboar\SquareApp\obj\Debug\SquareApp.pdb
+D:\Projects\SquareApp\bin\Debug\SquareApp.exe.config
+D:\Projects\SquareApp\bin\Debug\SquareApp.exe
+D:\Projects\SquareApp\bin\Debug\SquareApp.pdb
+D:\Projects\SquareApp\obj\Debug\SquareApp.csproj.AssemblyReference.cache
+D:\Projects\SquareApp\obj\Debug\SquareApp.csproj.CoreCompileInputs.cache
+D:\Projects\SquareApp\obj\Debug\SquareApp.exe
+D:\Projects\SquareApp\obj\Debug\SquareApp.pdb
